@@ -1,0 +1,3 @@
+interface InterfaceOpen{
+    fun interfaceBridge()
+}
